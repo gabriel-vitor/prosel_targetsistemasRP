@@ -1,4 +1,4 @@
-# Processo Seletivo - Target Sistrmas Ribeirão Preto
+# Processo Seletivo - Target Sistemas Ribeirão Preto
 
 O repositório consiste em 5 arquivos .java onde respondo as questões propostas pela empresa Target Sistemas.
 
